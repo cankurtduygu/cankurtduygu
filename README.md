@@ -57,3 +57,21 @@ Figma tasarımından HTML & CSS ile uygulanmış basit kart görünümü
 
 </tr>
 </table>
+
+---
+
+## 📚 Şu an öğreniyorum
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-0B3D4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-0B3D4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-0B3D4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-0B3D4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-0B3D4D?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+**Sıradaki hedeflerim:**  
+- Kart tasarımını *responsive* yapmak (Flexbox / Grid)  
+- GitHub Pages düzeni (mini portföy sayfası)  
+- Komponentleri yeniden kullanılabilir hale getirmek
+
