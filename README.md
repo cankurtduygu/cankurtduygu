@@ -33,7 +33,7 @@ HTML–CSS pratiklerim ve mini UI bileşenlerim
 ### 💛 Blog Preview Card UI  
 Figma tasarımından HTML & CSS ile uygulanmış basit kart görünümü
 
-<a href="https://cankurtduygu.github.io/frontend-projekt/">
+<a href="https://github.com/cankurtduygu/frontend-projekt">
   <img src="https://raw.githubusercontent.com/cankurtduygu/frontend-projekt/main/screenshot.png" width="250" alt="Blog Preview Card">
 </a>
 
@@ -43,7 +43,7 @@ Figma tasarımından HTML & CSS ile uygulanmış basit kart görünümü
   <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://cankurtduygu.github.io/frontend-projekt/">
+<a href="https://cankurtduygu.github.io/frontend-projekt/frontend-proje/">
   <img src="https://img.shields.io/badge/LIVE-B22222?style=for-the-badge">
 </a>
 
