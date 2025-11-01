@@ -16,12 +16,13 @@ Frontend projelerimi ve dokümantasyon notlarımı içeriyor.
 </p>
 
 
-### 💛 Blog Preview Card
+### 💛 My First Figma Project (Blog Preview Card)
 
 Frontend Mentor tarzı modern kart tasarımı çalışmam.
 
 🔗 **Live Demo:** https://cankurtduygu.github.io/frontend-projekt/  
 📦 **Repo:** https://github.com/cankurtduygu/frontend-projekt
 
-<img src="https://raw.githubusercontent.com/cankurtduygu/frontend-projekt/main/screenshot.png" width="500" />
+<img src="https://raw.githubusercontent.com/cankurtduygu/frontend-projekt/main/screenshot.png" width="420">
+
 
