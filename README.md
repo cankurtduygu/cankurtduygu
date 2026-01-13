@@ -1,10 +1,7 @@
----
+## 👉 Please click on the project names to see the live demo of the projects 👈
 
-## 👩‍💻 My Projects
-Click on a project to view the live demo or source code.
-
-| Project | Description | Live Demo | Source Code |
-|--------|------------|-----------|-------------|
-| **Todo App (React)** ⭐ | My first React project with CRUD operations and LocalStorage. | 🔗 https://cankurtduygu.github.io/Todo_App_React/ | 💻 https://github.com/cankurtduygu/Todo_App_React |
-| **Product List with Cart** | JavaScript-based cart and product listing app. | 🚧 Coming soon | 💻 https://github.com/cankurtduygu/product-list-with-cart-main |
-| **Minimalist Portfolio** | Simple and clean portfolio layout using HTML & CSS. | 🚧 Coming soon | 💻 https://github.com/cankurtduygu/minimalist-portfolio-detail |
+| Project Name | Libraries and Technologies I use | How does my project look | Source Codes |
+|---|---|---|---|
+| [**Todo App (React)**](https://cankurtduygu.github.io/Todo_App_React/) | React, Vite, TailwindCSS, LocalStorage | 🎥 [Watch Demo Video](https://github.com/cankurtduygu/Todo_App_React#demo-video) | [Source Code](https://github.com/cankurtduygu/Todo_App_React) |
+| **product-list-with-cart-main** | HTML, CSS, JavaScript | 🖼️ Screenshot coming soon | [Source Code](https://github.com/cankurtduygu/product-list-with-cart-main) |
+| **minimalist-portfolio-detail** | HTML, CSS | 🖼️ Screenshot coming soon | [Source Code](https://github.com/cankurtduygu/minimalist-portfolio-detail) |
