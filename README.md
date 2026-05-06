@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="./Purple and Pink Minimalist Front-End Developer LinkedIn Banner (1).png" width="100%" />
+</p>
+
+<br>
+
+# Hi there, I'm Duygu 👋
+
+Frontend Developer & IT Security Analyst
+
+## Technologies
+React • JavaScript • Tailwind • Node.js • Express • MongoDB
+
 ## My Projects
 
 👉 Click project name to see live demo
