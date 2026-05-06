@@ -8,8 +8,11 @@
 
 Computer Engineering Graduate & Frontend Developer
 
-## Technologies
-React • JavaScript • Tailwind • Node.js • Express • MongoDB
+## 🚀 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,nodejs,express,mongodb,postgres,git,github,vscode" />
+</p>
 
 ## My Projects
 
