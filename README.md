@@ -6,7 +6,7 @@
 
 # Hi there, I'm Duygu 👋
 
-Frontend Developer & IT Security Analyst
+Computer Engineering Graduate & Frontend Developer
 
 ## Technologies
 React • JavaScript • Tailwind • Node.js • Express • MongoDB
